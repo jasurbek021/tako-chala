@@ -1,0 +1,64 @@
+h1 {
+  font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+.blok-b {
+    background-color: rgb(236, 210, 236);
+    margin-left: 10px;
+}
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+#birinch {
+    font-size: 30px;
+}
+#najot {
+    font-size: 20px;
+}
+#burgut{
+    font-family: Georgia, 'Times New Roman', 'Times New Roman', Times, serif;
+}
+#kofe {
+    font-size: 20px;
+}
+#jasur {
+    font-size: 20px;
+}
+#fre {
+    font-size: 30px;
+}
+#nun {
+font-size: 30px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#nutr {
+    margin-top: 30px;
+    font-size: 20px;
+}
+#kcal {
+    text-align: center;
+}
+#id {
+    margin-top: 40px;
+}
+#qor {
+    color: brown;
+}
+#talim{
+    color: brown;
+}
+#tugayapt {
+    color: brown;
+}
+#tugad {
+    color: brown;
+}
+#rasim {
+    border: 10px;
+    border-color: blue;
+    border-top: 10px;
+}
+#nom {
+    border: solid 3px;
+    width: 650px;
+    color: black;
+}
